@@ -30,11 +30,6 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white">
       <Header />
-      <div className="bg-banner text-white text-xs font-medium py-2.5 text-center tracking-wide">
-        Free shipping and refund &nbsp;•&nbsp; Expulsion 24h &nbsp;•&nbsp; -15%
-        on the first purchase
-      </div>
-
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-xl sm:text-2xl font-black uppercase tracking-tight text-texto-principal">
