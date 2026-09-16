@@ -34,12 +34,12 @@ produtos são carregados da API pública [DummyJSON](https://dummyjson.com/).
 
 ## Scripts disponíveis
 
-| Comando | Descrição |
-| --- | --- |
-| `npm run dev` | Inicia o servidor de desenvolvimento com atualização automática. |
-| `npm run build` | Verifica os tipos e gera a versão de produção em `dist/`. |
-| `npm run lint` | Executa o Oxlint no código do projeto. |
-| `npm run preview` | Serve localmente a versão já gerada em `dist/`. |
+| Comando           | Descrição                                                        |
+| ----------------- | ---------------------------------------------------------------- |
+| `npm run dev`     | Inicia o servidor de desenvolvimento com atualização automática. |
+| `npm run build`   | Verifica os tipos e gera a versão de produção em `dist/`.        |
+| `npm run lint`    | Executa o Oxlint no código do projeto.                           |
+| `npm run preview` | Serve localmente a versão já gerada em `dist/`.                  |
 
 Para testar a versão de produção localmente:
 
