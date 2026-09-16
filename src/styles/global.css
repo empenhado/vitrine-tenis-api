@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Cores extraídas do layout */
+  --color-banner: #ff6000; /* Laranja vivo da barra promocional */
+  --color-card-bg: #f5f5f5; /* Cinza claro do container da foto do tênis */
+  --color-search-bg: #f0f0f0; /* Cinza claro do campo de busca */
+  --color-texto-principal: #111111; /* Preto dos títulos ("LIFESTYLE SNEAKERS") e preços */
+  --color-texto-mutado: #757575; /* Cinza dos subtextos ("Men's shoes" e "X colors") */
+
+  /* Tipografia */
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
